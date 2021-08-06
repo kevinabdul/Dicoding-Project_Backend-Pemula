@@ -1,0 +1,15 @@
+{
+  "name": "bookshelf-api",
+  "version": "1.0.0",
+  "description": "Tugas akhir Dicoding untuk kelas Belajar Membuat Aplikasi Back-end untuk Pemula",
+  "main": "index.js",
+  "scripts": {
+    "start-dev": "nodemon ./src/index.js"
+  },
+  "author": "Kemas Kevin Abd Fattah",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.2",
+    "nanoid": "^3.1.22"
+  }
+}
